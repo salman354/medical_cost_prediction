@@ -65,8 +65,7 @@ The code for this project is stored in the `app` file. It consists of Python scr
 
 ## Results
 
-The results of the medical cost prediction model are stored in the `rf_tuned.pkl` folder. It contains plots and tables showing the performance of the model on the test data.
-
+The results of the medical cost prediction model are stored in the `rf_tuned.pkl` file.
 ## Usage
 
 To use the code in this repository, run the scripts in the to train and evaluate the medical cost prediction model.
